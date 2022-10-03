@@ -1,6 +1,8 @@
-# simple-pagination-react_router
+## simple-pagination-react_router
 
-# Demo:  https://melodious-kitsune-681af7.netlify.app/?skip=0&limit=10
+### Demo:  https://melodious-kitsune-681af7.netlify.app/?skip=0&limit=10
 
-### Use:  npm i
-###       npm start
+#### Use:  npm i
+####       npm start
+
+##### Pagination with useSearchParams() from react-router-dom
